@@ -28,7 +28,7 @@
 
 ---
 
-## 🟢 Cenário Econômico — Total: ~R$ 30.800
+## 🟢 Cenário Econômico — Total: ~R$ 31.700
 
 Foco em qualidade no essencial, aproveitando modulados e soluções práticas.
 
@@ -63,7 +63,7 @@ Foco em qualidade no essencial, aproveitando modulados e soluções práticas.
 | **Varanda** | Bistrô + plantas + arandela | R$ 550 |
 | **Decoração** | Cortinas (sala + quartos) | R$ 500 |
 | **Reserva / Imprevistos** | ~5% | R$ 1.000 |
-| **TOTAL ECONÔMICO** | | **R$ 30.760** |
+| **TOTAL ECONÔMICO** | | **R$ 31.690** |
 
 ---
 
@@ -123,7 +123,7 @@ Melhor acabamento em todas as categorias, ainda dentro do orçamento de R$ 40.00
 | Reserva/imprevistos | R$ 1.000 | R$ 1.760 | +R$ 760 |
 | **TOTAL** | **R$ 31.690** | **R$ 51.920** | — |
 
-> ⚠️ **Atenção**: O cenário intermediário consolidado ultrapassa R$ 40.000 se tudo for feito no nível intermediário. Os totais nas tabelas de cenário (R$ 30.760 / R$ 39.420) refletem uma seleção estratégica por categoria.
+> ⚠️ **Atenção**: O cenário intermediário consolidado ultrapassa R$ 40.000 se tudo for feito no nível intermediário. Os totais nas tabelas de cenário (R$ 31.690 / R$ 39.420) refletem uma seleção estratégica por categoria.
 
 ---
 
