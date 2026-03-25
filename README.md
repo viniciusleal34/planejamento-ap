@@ -43,7 +43,7 @@ Espelhos grandes são elementos-chave neste projeto:
 |---|----------|-----------|
 | 01 | [Conceito e Estilo](docs/01-conceito-e-estilo.md) | Paleta de cores, mood board, princípios de design |
 | 02 | [Layout e Planta](docs/02-layout-e-planta.md) | Planta detalhada com medidas e circulação |
-| 03 | [Sala de Estar](docs/03-sala-de-estar.md) | Sofá preto 180cm, painel TV, espelho, tapete |
+| 03 | [Sala de Estar](docs/03-sala-de-estar.md) | Sofá preto 180cm, painel TV, espelho |
 | 04 | [Cozinha](docs/04-cozinha.md) | Geladeira inverse, armários, bancada granito |
 | 05 | [Lavanderia](docs/05-lavanderia.md) | Lava e seca Samsung, nichos, separação |
 | 06 | [Dormitórios](docs/06-dormitorios.md) | Layout dos 2 quartos, guarda-roupas com espelho |

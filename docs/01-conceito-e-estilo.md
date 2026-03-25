@@ -23,7 +23,7 @@ O projeto busca transformar um apartamento compacto de 43,94m² em um espaço qu
 |-----|-----|---------------|
 | ⬜ Branco Neve | `#FFFFFF` | Paredes, teto, armários |
 | ⬜ Off-White / Gelo | `#F5F5F0` | Paredes destaque, cortinas |
-| 🔲 Cinza Claro | `#D3D3D3` | Tapetes, detalhes, porcelanato |
+| 🔲 Cinza Claro | `#D3D3D3` | Detalhes, porcelanato |
 | 🔲 Cinza Médio | `#A9A9A9` | Bancadas, revestimentos |
 | ⬛ Preto | `#1A1A1A` | Sofá, detalhes, torneiras, puxadores |
 | 🟫 Madeira Clara (Carvalho) | `#C4A776` | Painéis, ripados, detalhes de armários |

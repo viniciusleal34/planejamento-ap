@@ -90,7 +90,7 @@
 - [ ] Tanque/cuba lavanderia
 
 ### Decoração
-- [ ] Tapete cinza claro (150x200)
+
 - [ ] Cortinas voil branco (sala + quartos)
 - [ ] Roupa de cama neutra
 - [ ] Plantas/vasos (varanda)
@@ -119,7 +119,7 @@
 
 - [ ] Entrega e montagem dos móveis
 - [ ] Instalação de cortinas
-- [ ] Colocação do tapete
+
 - [ ] Posicionamento da decoração
 - [ ] Limpeza pós-obra profissional
 - [ ] Inspeção final (elétrica, hidráulica, acabamentos, AC)

@@ -11,7 +11,7 @@ Dois dormitórios compactos e funcionais, com guarda-roupas planejados com espel
 | Quarto | Área | Uso |
 |--------|------|-----|
 | Quarto 1 | ~9m² | Casal — principal |
-| Quarto 2 | ~7m² | Solteiro / Escritório |
+| Quarto 2 | ~7m² | Solteiro (1 cama) + Escritório (2 notebooks) |
 
 ---
 
@@ -103,15 +103,19 @@ Dois dormitórios compactos e funcionais, com guarda-roupas planejados com espel
 
 ---
 
-## 🛏️ Quarto 2 — Solteiro / Escritório (~7m²)
+## 🛏️💻 Quarto 2 — Solteiro + Escritório (~7m²)
+
+> 🎯 **Conceito**: Quarto multiuso com **1 cama de solteiro** e área de trabalho para **2 notebooks** (pessoal + trabalho). O layout deve equilibrar descanso e produtividade no espaço compacto.
+
+---
 
 ### Cama + Colchão
 
 | Especificação | Detalhe |
 |---------------|---------|
-| **Tamanho cama** | Solteiro (88cm × 188cm) ou Solteiro Plus (128cm × 188cm) |
+| **Tamanho cama** | Solteiro (88cm × 188cm) — 1 unidade |
 | **Cabeceira** | Simples, madeira ou estofada |
-| **Posição** | Encostada na parede, liberando espaço para escrivaninha |
+| **Posição** | Encostada na parede lateral, liberando espaço máximo para o home office |
 
 | Item | Econômico | Intermediário | Premium |
 |------|-----------|---------------|---------|
@@ -136,19 +140,34 @@ Dois dormitórios compactos e funcionais, com guarda-roupas planejados com espel
 
 ---
 
-### Escrivaninha
+### 💻 Escrivaninha — Setup Duplo (2 Notebooks)
+
+> **Configuração**: 1 notebook pessoal + 1 notebook de trabalho. A bancada precisa ter largura suficiente para acomodar os dois lados a lado ou um suporte vertical.
 
 | Especificação | Detalhe |
 |---------------|---------|
-| **Dimensões** | 120cm × 60cm |
+| **Dimensões recomendadas** | Mínimo 140cm × 60cm (ideal 160cm para 2 notebooks) |
 | **Material** | MDF madeira clara ou branca |
-| **Posição** | Sob a janela (luz natural) ou parede livre |
-| **Complemento** | Cadeira ergonômica ou escritório |
+| **Posição** | Sob a janela (luz natural) ou na parede livre |
+| **Organização** | Suporte vertical para notebook ocioso + mousepad duplo |
+| **Cabos** | Calha organizadora de cabos (2 carregadores + periféricos) |
 
-| Opção | Faixa de Preço |
+#### Acessórios recomendados para o setup
+
+| Acessório | Função | Faixa de Preço |
+|-----------|--------|---------------|
+| Suporte elevador para notebook | Ergonomia + libera espaço | R$ 80 – R$ 200 |
+| Hub USB-C ou switch KVM | Compartilhar monitor/teclado/mouse | R$ 80 – R$ 350 |
+| Monitor externo (opcional) | Produtividade com tela grande | R$ 600 – R$ 1.500 |
+| Organizador de cabos | Evitar bagunça com 2 setups | R$ 30 – R$ 80 |
+| Régua com USB | Centralizar energia dos 2 notebooks | R$ 60 – R$ 150 |
+
+| Opção de bancada | Faixa de Preço |
 |-------|---------------|
-| Escrivaninha MDF — Móveis Canadá / MadeiraMadeira | R$ 250 – R$ 600 |
-| Cadeira escritório básica | R$ 200 – R$ 500 |
+| Escrivaninha MDF 140cm+ — Móveis Canadá / MadeiraMadeira | R$ 400 – R$ 900 |
+| Cadeira ergonômica | R$ 350 – R$ 1.000 |
+
+> 💡 **Dica**: Um suporte vertical duplo para notebooks mantém a bancada organizada quando apenas um está em uso. Um switch KVM simples permite usar um único teclado/mouse nos dois notebooks.
 
 ---
 
@@ -159,9 +178,10 @@ Dois dormitórios compactos e funcionais, com guarda-roupas planejados com espel
 | Cama solteiro + cabeceira | R$ 400 | R$ 800 | R$ 1.500 |
 | Colchão solteiro | R$ 500 | R$ 900 | R$ 1.800 |
 | Guarda-roupa com espelho | R$ 1.600 | R$ 3.000 | R$ 5.000 |
-| Escrivaninha | R$ 300 | R$ 500 | R$ 900 |
-| Cadeira de escritório | R$ 250 | R$ 400 | R$ 800 |
-| **SUBTOTAL QUARTO 2** | **R$ 3.050** | **R$ 5.600** | **R$ 10.000** |
+| Escrivaninha 140cm+ | R$ 450 | R$ 700 | R$ 1.200 |
+| Cadeira ergonômica | R$ 380 | R$ 600 | R$ 1.000 |
+| Acessórios setup duplo | R$ 200 | R$ 500 | R$ 1.200 |
+| **SUBTOTAL QUARTO 2** | **R$ 3.530** | **R$ 6.500** | **R$ 11.700** |
 
 ---
 
@@ -170,8 +190,8 @@ Dois dormitórios compactos e funcionais, com guarda-roupas planejados com espel
 | Item | Econômico | Intermediário | Premium |
 |------|-----------|---------------|---------|
 | Quarto 1 — Casal (completo) | R$ 5.350 | R$ 9.150 | R$ 15.400 |
-| Quarto 2 — Solteiro/Escritório | R$ 3.050 | R$ 5.600 | R$ 10.000 |
-| **TOTAL DORMITÓRIOS** | **R$ 8.400** | **R$ 14.750** | **R$ 25.400** |
+| Quarto 2 — Solteiro/Escritório (setup duplo) | R$ 3.530 | R$ 6.500 | R$ 11.700 |
+| **TOTAL DORMITÓRIOS** | **R$ 8.880** | **R$ 15.650** | **R$ 27.100** |
 
 > 💡 **Dica de economia**: Priorize o guarda-roupa planejado com espelho — transforma completamente o visual do quarto e gera a sensação de amplitude.
 

@@ -52,7 +52,7 @@ Foco em qualidade no essencial, aproveitando modulados e soluções práticas.
 | **Iluminação** | Fitas LED + spots (15 un) + pendentes | R$ 850 |
 | **Iluminação** | Luminárias quartos + arandela | R$ 380 |
 | **Sala** | Painel TV + rack | R$ 700 |
-| **Sala** | Espelho decorativo + tapete | R$ 480 |
+| **Sala** | Espelho decorativo | R$ 300 |
 | **Dormitórios** | Cama casal + colchão | R$ 1.500 |
 | **Dormitórios** | Cama solteiro + colchão | R$ 900 |
 | **Dormitórios** | Criados-mudos (par) + escrivaninha | R$ 650 |
@@ -91,7 +91,7 @@ Melhor acabamento em todas as categorias, ainda dentro do orçamento de R$ 40.00
 | **Iluminação** | Fitas LED + spots (15 un) + pendentes | R$ 1.500 |
 | **Iluminação** | Luminárias quartos + arandela | R$ 680 |
 | **Sala** | Painel TV + rack semi-planejado | R$ 1.400 |
-| **Sala** | Espelho decorativo + tapete | R$ 850 |
+| **Sala** | Espelho decorativo | R$ 500 |
 | **Dormitórios** | Cama casal + colchão | R$ 2.700 |
 | **Dormitórios** | Cama solteiro + colchão | R$ 1.700 |
 | **Dormitórios** | Criados-mudos (par) + escrivaninha + cadeira | R$ 1.250 |
@@ -100,7 +100,7 @@ Melhor acabamento em todas as categorias, ainda dentro do orçamento de R$ 40.00
 | **Cozinha** | Cooktop + depurador + micro-ondas | R$ 1.350 |
 | **Lavanderia** | Nichos + tanque + varal | R$ 720 |
 | **Varanda** | Bistrô (metal preto) + plantas + arandela | R$ 980 |
-| **Decoração** | Cortinas + tapete extra + mesa de centro | R$ 1.200 |
+| **Decoração** | Cortinas + mesa de centro | R$ 900 |
 | **Reserva / Imprevistos** | ~5% | R$ 1.760 |
 | **TOTAL INTERMEDIÁRIO** | | **R$ 39.420** |
 
@@ -141,7 +141,7 @@ Para o **cenário intermediário ficar dentro de R$ 40.000**, priorize da seguin
 | ⭐⭐ MÉDIA | Banheiro | Intermediário | Vaso suspenso + metais pretos |
 | ⭐ BAIXA | Iluminação | Econômico/Médio | Spots + fita LED são suficientes |
 | ⭐ BAIXA | Móveis (camas) | Econômico | Camas simples com colchão de qualidade |
-| ⭐ BAIXA | Decoração | Econômico | Tapete + espelhos + cortinas básicos |
+| ⭐ BAIXA | Decoração | Econômico | Espelhos + cortinas básicos |
 
 ---
 

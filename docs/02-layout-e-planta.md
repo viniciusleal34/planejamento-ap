@@ -40,7 +40,7 @@
 | Sofá retrátil preto 180cm ⭐ ITEM FIXO | 180cm × 90cm | Parede lateral esquerda |
 | Painel de TV + rack | 160cm × 40cm | Parede frontal |
 | Mesa de centro | 80cm × 60cm | Centro (opcional) |
-| Tapete cinza | 150cm × 200cm | Sob o sofá |
+
 | Espelho decorativo | 120cm × 80cm | Parede lateral direita |
 
 ### Circulação
@@ -51,6 +51,12 @@
 | Corredor de acesso | 80cm | 90cm |
 
 > 💡 **Dica**: Posicionar o sofá de costas para a cozinha cria uma separação visual sem precisar de paredes.
+
+> ✅ **Layout real (conforme planta)**:
+> - A **entrada do apartamento** dá diretamente na **cozinha**
+> - A **cozinha fica atrás do sofá** (não ao lado)
+> - A **varanda** tem acesso tanto pela **sala** quanto pela **cozinha** (espaço contínuo na parte superior da planta)
+> - O **sofá** fica de costas para a cozinha, de frente para o painel de TV
 
 ---
 

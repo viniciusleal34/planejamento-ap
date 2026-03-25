@@ -101,22 +101,6 @@ O ar-condicionado da sala é o principal do apartamento. Garante conforto térmi
 
 ---
 
-## 🟫 Tapete Cinza
-
-| Especificação | Detalhe |
-|---------------|---------|
-| **Cor** | Cinza claro ou cinza médio |
-| **Dimensões** | 150cm × 200cm ou 200cm × 250cm |
-| **Material** | Polipropileno (fácil de limpar) ou algodão |
-| **Posição** | Sob o sofá, estendendo-se para frente |
-
-| Opção | Preço Estimado |
-|-------|---------------|
-| Tapete polipropileno 150×200 — Shopee/ML | R$ 150 – R$ 300 |
-| Tapete polipropileno 200×250 — MadeiraMadeira | R$ 250 – R$ 500 |
-
----
-
 ## ☕ Mesa de Centro (Opcional)
 
 | Especificação | Detalhe |
@@ -150,10 +134,9 @@ O ar-condicionado da sala é o principal do apartamento. Garante conforto térmi
 | Painel TV + rack | R$ 700 | R$ 1.400 | R$ 3.500 |
 | Ar-condicionado 9.000 BTU + instalação | R$ 1.300 | R$ 2.000 | R$ 2.800 |
 | Espelho decorativo grande | R$ 300 | R$ 500 | R$ 900 |
-| Tapete cinza | R$ 180 | R$ 350 | R$ 600 |
 | Mesa de centro | — | R$ 350 | R$ 700 |
 | Iluminação (spots + fita LED) | R$ 500 | R$ 900 | R$ 1.500 |
-| **TOTAL SALA** | **R$ 2.980** | **R$ 5.500** | **R$ 10.000** |
+| **TOTAL SALA** | **R$ 2.800** | **R$ 5.150** | **R$ 9.400** |
 
 ---
 

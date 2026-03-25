@@ -20,7 +20,7 @@
 | 10 | Iluminação (spots, LED, pendentes) | 2-3 dias | S9 |
 | 11 | Instalação ar-condicionado (2 splits) | 1 dia | S9 |
 | 12 | Móveis (sofá, camas, mesas) | 1-2 dias | S10 |
-| 13 | Decoração final (tapete, cortinas, vasos) | 1-2 dias | S10 |
+| 13 | Decoração final (cortinas, vasos) | 1-2 dias | S10 |
 | 14 | Limpeza final + mudança | 1-2 dias | S10 |
 
 **Tempo total estimado: 8-10 semanas**
