@@ -12,23 +12,16 @@ Cozinha integrada com a sala, funcional e compacta. Armários brancos com detalh
 
 ---
 
-## 🧊 Geladeira Inverse Branca ⭐ ITEM FIXO
+## 🧊 Geladeira Inverse Branca ⭐ JÁ POSSUI — NÃO COMPRAR
 
 | Especificação | Detalhe |
 |---------------|---------|
 | **Tipo** | Frost Free Inverse (freezer embaixo) |
 | **Cor** | Branca |
 | **Posição** | Canto da cozinha, próxima à bancada |
-| **Capacidade sugerida** | 350L – 400L |
+| **Status** | ✅ Item já adquirido — não incluir no orçamento |
 
-### Sugestões de Modelos
-
-| Modelo | Capacidade | Faixa de Preço |
-|--------|-----------|---------------|
-| Brastemp BRE57AB Inverse | 443L | R$ 3.500 – R$ 4.200 |
-| Electrolux IB45 Inverse | 400L | R$ 2.800 – R$ 3.500 |
-| Consul CRE44AB Inverse | 397L | R$ 2.500 – R$ 3.200 |
-| Panasonic NR-BB53 Inverse | 425L | R$ 3.000 – R$ 3.800 |
+> 💡 A geladeira inverse branca já está garantida. O investimento da cozinha vai para marcenaria, bancada e eletrodomésticos complementares.
 
 ---
 
@@ -106,7 +99,7 @@ Cozinha integrada com a sala, funcional e compacta. Armários brancos com detalh
 
 | Item | Econômico | Intermediário | Premium |
 |------|-----------|---------------|---------|
-| Geladeira inverse branca | R$ 2.500 | R$ 3.200 | R$ 4.200 |
+| Geladeira inverse branca | ✅ Já possui | ✅ Já possui | ✅ Já possui |
 | Armários planejados | R$ 2.500 | R$ 5.500 | R$ 12.000 |
 | Bancada granito (~2m) | R$ 600 | R$ 900 | R$ 3.000 |
 | Cooktop | R$ 400 | R$ 600 | R$ 800 |
@@ -114,7 +107,7 @@ Cozinha integrada com a sala, funcional e compacta. Armários brancos com detalh
 | Depurador | R$ 250 | R$ 350 | R$ 500 |
 | Cuba + torneira | R$ 350 | R$ 600 | R$ 1.400 |
 | Iluminação LED | R$ 150 | R$ 300 | R$ 500 |
-| **TOTAL COZINHA** | **R$ 7.550** | **R$ 12.550** | **R$ 23.900** |
+| **TOTAL COZINHA** | **R$ 5.050** | **R$ 9.350** | **R$ 19.700** |
 
 ---
 
