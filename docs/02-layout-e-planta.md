@@ -27,7 +27,7 @@
 | **Dormitório 2** | ~8,0 m² | 2,80m × 2,85m |
 | **Banheiro** | ~3,5 m² | 1,50m × 2,30m |
 | **Varanda** | ~2,4 m² | 1,20m × 2,00m |
-| **Circulação/Corredor** | ~0,04 m² | — |
+| **Circulação/Corredor** | ~0,04 m² (incluso nas demais áreas) | — |
 | **Total** | **≈ 43,94 m²** | — |
 
 > ⚠️ As medidas acima são estimativas baseadas na planta-tipo da Tipologia A. Confirme as dimensões reais com a construtora ou com visita ao imóvel.

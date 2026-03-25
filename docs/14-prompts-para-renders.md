@@ -193,7 +193,7 @@ Hyperrealistic, photorealistic, 8K, professional architecture photography.
 ## 📐 Prompt 8 — Vista Geral Wide-Angle (Plano Aberto)
 
 ```
-Hyperrealistic wide-angle architectural interior render of a complete modern open-plan 44sqm 
+Hyperrealistic wide-angle architectural interior render of a complete modern open-plan 43.94sqm 
 Brazilian apartment, Tipology A, 2 bedrooms. One single sweeping view showing the full social 
 area: living room, dining area, integrated kitchen, and glimpse of laundry.
 
