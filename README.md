@@ -1,96 +1,64 @@
 # 🏠 Planejamento de Interiores — Apartamento 43,94m²
 
-![Status](https://img.shields.io/badge/Status-Em%20Planejamento-yellow)
-![Área](https://img.shields.io/badge/Área-43%2C94m²-blue)
-![Tipologia](https://img.shields.io/badge/Tipologia-A%20|%202%20Dorms-green)
+![Status](https://img.shields.io/badge/Status-Em%20Planejamento-blue)
+![Área](https://img.shields.io/badge/Área-43%2C94m²-green)
+![Tipologia](https://img.shields.io/badge/Tipologia-A-orange)
 
-> Projeto de reforma e decoração moderno contemporâneo, clean e sofisticado para apartamento compacto com integração de sala, cozinha e lavanderia.
+> Projeto de reforma e decoração moderno contemporâneo, clean e sofisticado para apartamento compacto de 2 dormitórios com varanda.
 
 ---
 
 ## 📋 Sobre o Projeto
 
-Este repositório contém o **planejamento completo** de reforma e decoração de interiores para um apartamento de **43,94m²**, Tipologia A, com:
+| Informação | Detalhe |
+|------------|--------|
+| **Área total** | 43,94m² |
+| **Tipologia** | A — 2 dormitórios com varanda |
+| **Estilo** | Moderno contemporâneo, clean e sofisticado |
+| **Paleta** | Branco, cinza claro, preto e madeira clara |
+| **Foco** | Reforma e adaptação — planta original mantida |
 
-- 🛋️ Sala de estar integrada com cozinha
-- 🍳 Cozinha planejada
-- 🧺 Lavanderia integrada
-- 🛏️ 2 Dormitórios
-- 🚿 1 Banheiro
-- 🌿 Varanda
+### ⭐ Itens Fixos do Projeto
+- 🛋️ **Sofá retrátil preto de 180cm** — elemento principal da sala
+- 🧺 **Máquina lava e seca branca Samsung** — lavanderia integrada
+- 🧊 **Geladeira inverse branca** — cozinha
 
-### 🎯 Objetivo
+### 🪞 Destaque: Espelhos
+Espelhos grandes são elementos-chave neste projeto:
+- **Sala**: Espelho decorativo grande para ampliar o ambiente
+- **Banheiro**: Espelheira ampla ou espelho de parede inteira
+- **Quartos**: Espelho no guarda-roupa planejado (portas com espelho)
 
-Transformar o apartamento em um ambiente **moderno, organizado, sofisticado e funcional**, mantendo a planta original (sem alterações estruturais) e focando em **reforma, acabamentos, marcenaria e decoração** com excelente custo-benefício.
-
-### 🔑 Premissas do Projeto
-
-- **Planta fixa**: O apartamento já está construído — sem alteração de paredes, banheiro ou estrutura
-- **Foco em reforma**: Pisos, revestimentos, gesso, iluminação, marcenaria e decoração
-- **Espelhos em destaque**: Espelho decorativo na sala, espelho grande no banheiro e guarda-roupa planejado com espelho nos quartos
-- **3 Itens fixos obrigatórios**:
-  - 🛋️ Sofá retrátil preto de 180cm
-  - 🧺 Máquina lava e seca branca Samsung
-  - 🧊 Geladeira inverse branca
-
-### 🎨 Estilo
-
-Moderno contemporâneo com paleta neutra (branco, cinza claro, preto e madeira clara), linhas retas e minimalistas, com contraste elegante entre elementos escuros e claros.
+### ⚠️ Premissas Importantes
+- A **planta é fixa** — não há alteração de paredes estruturais
+- O **banheiro permanece no mesmo local** (hidráulica mantida)
+- Foco em **reforma de acabamentos, móveis e decoração**
+- Projeto realista com **custo-benefício acessível**
 
 ---
 
 ## 📂 Documentação do Projeto
 
 | # | Documento | Descrição |
-|---|-----------|-----------|
+|---|----------|-----------|
 | 01 | [Conceito e Estilo](docs/01-conceito-e-estilo.md) | Paleta de cores, mood board, princípios de design |
-| 02 | [Layout e Planta](docs/02-layout-e-planta.md) | Planta do apartamento, medidas e circulação |
-| 03 | [Sala de Estar](docs/03-sala-de-estar.md) | Sofá, painel TV, espelho, tapete, iluminação |
-| 04 | [Cozinha](docs/04-cozinha.md) | Armários, bancada, eletrodomésticos |
-| 05 | [Lavanderia](docs/05-lavanderia.md) | Lava e seca, armários, organização |
-| 06 | [Dormitórios](docs/06-dormitorios.md) | Layout dos quartos, guarda-roupa com espelho |
+| 02 | [Layout e Planta](docs/02-layout-e-planta.md) | Planta detalhada com medidas e circulação |
+| 03 | [Sala de Estar](docs/03-sala-de-estar.md) | Sofá preto 180cm, painel TV, espelho, tapete |
+| 04 | [Cozinha](docs/04-cozinha.md) | Geladeira inverse, armários, bancada granito |
+| 05 | [Lavanderia](docs/05-lavanderia.md) | Lava e seca Samsung, nichos, separação |
+| 06 | [Dormitórios](docs/06-dormitorios.md) | Layout dos 2 quartos, guarda-roupas com espelho |
 | 07 | [Banheiro](docs/07-banheiro.md) | Acabamentos, espelho grande, louças |
-| 08 | [Varanda](docs/08-varanda.md) | Integração com sala, móveis |
-| 09 | [Pisos e Revestimentos](docs/09-pisos-e-revestimentos.md) | Porcelanato, vinílico, painéis |
-| 10 | [Iluminação](docs/10-iluminacao.md) | Gesso, LED, spots, pendentes |
-| 11 | [Orçamento Geral](docs/11-orcamento-geral.md) | Estimativas de custo por categoria |
-| 12 | [Cronograma](docs/12-cronograma.md) | Fases de obra e prazos |
-| 13 | [Fornecedores e Referências](docs/13-fornecedores-e-referencias.md) | Lojas e fornecedores sugeridos |
-| 14 | [Prompts para Renders](docs/14-prompts-para-renders.md) | Prompts em inglês para Midjourney/DALL-E |
-| 15 | [Checklist](docs/15-checklist.md) | Checklist completo do projeto |
+| 08 | [Varanda](docs/08-varanda.md) | Integração com sala |
+| 09 | [Pisos e Revestimentos](docs/09-pisos-e-revestimentos.md) | Porcelanato/vinílico, painéis, texturas |
+| 10 | [Iluminação](docs/10-iluminacao.md) | Gesso, sanca LED, spots 3000K |
+| 11 | [Orçamento Geral](docs/11-orcamento-geral.md) | Orçamento completo em R$ |
+| 12 | [Cronograma](docs/12-cronograma.md) | Fases de obra com timeline |
+| 13 | [Fornecedores](docs/13-fornecedores-e-referencias.md) | Lojas e referências |
+| 14 | [Prompts para Renders](docs/14-prompts-para-renders.md) | Prompts em inglês para IA |
+| 15 | [Checklist](docs/15-checklist.md) | Checklist completo |
 
 ---
 
-## 🗂️ Estrutura de Pastas
+## 📄 Licença
 
-```
-planejamento-ap/
-├── README.md
-├── docs/
-│   ├── 01-conceito-e-estilo.md
-│   ├── 02-layout-e-planta.md
-│   ├── 03-sala-de-estar.md
-│   ├── 04-cozinha.md
-│   ├── 05-lavanderia.md
-│   ├── 06-dormitorios.md
-│   ├── 07-banheiro.md
-│   ├── 08-varanda.md
-│   ├── 09-pisos-e-revestimentos.md
-│   ├── 10-iluminacao.md
-│   ├── 11-orcamento-geral.md
-│   ├── 12-cronograma.md
-│   ├── 13-fornecedores-e-referencias.md
-│   ├── 14-prompts-para-renders.md
-│   └── 15-checklist.md
-└── .gitignore
-```
-
----
-
-## 📌 Sensação Geral Desejada
-
-> Ambiente moderno, organizado, sofisticado e funcional. Boa circulação, visual clean sem excesso de informação. Projeto realista, executável e com custo acessível. Espelhos estratégicos para ampliar os ambientes.
-
----
-
-*Projeto criado em Março/2026* 🏗️
+Projeto pessoal de planejamento. Todos os preços são estimativas baseadas no mercado brasileiro 2025/2026.
