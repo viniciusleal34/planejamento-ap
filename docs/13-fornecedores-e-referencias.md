@@ -31,7 +31,24 @@
 | Leroy Merlin | Pisos, revestimentos, tintas, metais |
 | C&C | Materiais de construção em geral |
 | Telhanorte | Pisos e revestimentos |
-| Portobello Shop | Porcelanatos premium |
+| Portobello Shop | Porcelanatos premium (cimento queimado, mármore sintético) |
+| Ceusa / Eliane | Porcelanatos com ótimo custo-benefício |
+| Incepa / Roca | Porcelanatos acessíveis, boa variedade |
+
+## ❄️ Ar-Condicionado
+
+| Loja / Fornecedor | Tipo | Destaque |
+|------------------|------|----------|
+| Magazine Luiza | Online + física | Boas promoções em splits inverter |
+| Casas Bahia | Online + física | Parcelamento e entrega rápida |
+| FastShop | Online + física | Especializada em eletrônicos |
+| Americanas | Online | Variedade de marcas e modelos |
+| Samsung (loja oficial) | Online | WindFree — melhor custo-benefício |
+| LG (loja oficial) | Online | Dual Inverter — excelente qualidade |
+| Midea | Online | Xtreme Save — preço acessível |
+| Técnico certificado local | Serviço | Instalação — buscar técnico certificado Inmetro |
+
+> 💡 **Dica AC**: Sempre exija que a instalação seja feita por **técnico certificado** (exigência para garantia do fabricante).
 
 ## 💡 Iluminação
 
