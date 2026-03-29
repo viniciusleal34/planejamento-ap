@@ -101,6 +101,37 @@ O ar-condicionado da sala é o principal do apartamento. Garante conforto térmi
 
 ---
 
+## 🖥️ Hub de Automação — Central da Casa
+
+> O cérebro da automação fica **escondido na sala**, integrado ao rack do painel de TV.
+
+| Especificação | Detalhe |
+|---------------|---------|
+| **Localização** | Dentro do rack/nicho do painel de TV — escondido, mas com acesso fácil |
+| **Hardware** | Raspberry Pi 4 (4GB) rodando **Home Assistant** |
+| **Conexão** | Cabo de rede (ideal) ou WiFi |
+| **Dongle Zigbee** | Sonoff Zigbee 3.0 USB — conectado direto no Pi |
+| **Alimentação** | Tomada smart atrás do rack (para reiniciar remotamente) |
+
+### Por que Home Assistant?
+
+| Vantagem | Detalhe |
+|----------|---------|
+| **Local** | Não depende de nuvem — funciona mesmo sem internet |
+| **Unificado** | Integra Alexa, Google, Zigbee, WiFi, câmeras, tudo num só app |
+| **Gratuito** | Software open source |
+| **Dashboards** | Painel visual com todos os dispositivos da casa |
+
+| Item | Preço |
+|------|-------|
+| Raspberry Pi 4 4GB | R$ 400 – R$ 600 |
+| SSD 120GB (estabilidade) | R$ 100 – R$ 150 |
+| Dongle Zigbee Sonoff | R$ 100 – R$ 180 |
+| Cabo de rede + fonte | R$ 50 – R$ 80 |
+| **Total hub** | **R$ 650 – R$ 1.010** |
+
+---
+
 ## ☕ Mesa de Centro (Opcional)
 
 | Especificação | Detalhe |
@@ -132,6 +163,7 @@ O ar-condicionado da sala é o principal do apartamento. Garante conforto térmi
 |------|-----------|---------------|---------|
 | Sofá preto 180cm | ✅ Já possui | ✅ Já possui | ✅ Já possui |
 | Painel TV + rack | R$ 700 | R$ 1.400 | R$ 3.500 |
+| Hub automação (Raspberry Pi + HA) | R$ 650 | R$ 850 | R$ 1.010 |
 | Ar-condicionado 9.000 BTU + instalação | R$ 1.300 | R$ 2.000 | R$ 2.800 |
 | Espelho decorativo grande | R$ 300 | R$ 500 | R$ 900 |
 | Mesa de centro | — | R$ 350 | R$ 700 |

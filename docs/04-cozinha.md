@@ -73,6 +73,39 @@ Cozinha integrada com a sala, funcional e compacta. Armários brancos com detalh
 | Forno elétrico embutir | Preto/inox | Fischer/Electrolux | R$ 800 – R$ 1.500 |
 | Depurador de ar | Branco | Electrolux/Consul | R$ 250 – R$ 500 |
 | Micro-ondas | Branco | Electrolux/Panasonic | R$ 500 – R$ 900 |
+| **Lava-louça** ⭐ | Branca/inox | Fischer/Electrolux/Brastemp | R$ 1.200 – R$ 2.800 |
+
+---
+
+## 🫧 Lava-Louça — Planejamento
+
+> 💡 **Prioridade**: Item essencial para o projeto.
+
+| Especificação | Detalhe |
+|--------------|--------|
+| **Tipo recomendado** | Slim 45cm de largura (ideal para cozinha compacta ~5m²) |
+| **Capacidade** | 8 – 10 serviços |
+| **Instalação** | Embutida sob a bancada, ao lado da cuba |
+| **Cor** | Branca (painel frontal) ou inox para combinar com os armários |
+| **Ponto elétrico** | 220V, disjuntor dedicado de 20A |
+| **Ponto hidráulico** | Entrada e saída junto ao encanamento da pia |
+
+### Modelos Recomendados (Slim 45cm)
+
+| Modelo | Capacidade | Preço Estimado |
+|--------|-----------|---------------|
+| Electrolux LL08B (Lava Plus) | 8 serviços | R$ 1.200 – R$ 1.500 |
+| Fischer Smart 10 | 10 serviços | R$ 1.400 – R$ 1.700 |
+| Brastemp BLF08AB | 8 serviços | R$ 1.500 – R$ 1.900 |
+| Midea MD-XW80B | 8 serviços | R$ 1.300 – R$ 1.600 |
+
+### Custo de Instalação
+
+| Serviço | Custo (Itu) |
+|---------|------------|
+| Ponto hidráulico (entrada + saída) | R$ 300 – R$ 500 |
+| Ponto elétrico 220V dedicado | R$ 150 – R$ 250 |
+| **Total instalação** | **R$ 450 – R$ 750** |
 
 ---
 
@@ -106,8 +139,10 @@ Cozinha integrada com a sala, funcional e compacta. Armários brancos com detalh
 | Forno elétrico | R$ 800 | R$ 1.100 | R$ 1.500 |
 | Depurador | R$ 250 | R$ 350 | R$ 500 |
 | Cuba + torneira | R$ 350 | R$ 600 | R$ 1.400 |
+| **Lava-louça slim 45cm** | **R$ 1.300** | **R$ 1.700** | **R$ 2.800** |
+| Instalação lava-louça (hidráulica + elétrica) | R$ 450 | R$ 600 | R$ 750 |
 | Iluminação LED | R$ 150 | R$ 300 | R$ 500 |
-| **TOTAL COZINHA** | **R$ 5.050** | **R$ 9.350** | **R$ 19.700** |
+| **TOTAL COZINHA** | **R$ 6.800** | **R$ 12.150** | **R$ 23.250** |
 
 ---
 

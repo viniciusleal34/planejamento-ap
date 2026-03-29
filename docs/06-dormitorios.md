@@ -103,9 +103,9 @@ Dois dormitórios compactos e funcionais, com guarda-roupas planejados com espel
 
 ---
 
-## 🛏️💻 Quarto 2 — Solteiro + Escritório (~7m²)
+## 🛏️🎮 Quarto 2 — Solteiro + Escritório/Gamer (~7m²)
 
-> 🎯 **Conceito**: Quarto multiuso com **1 cama de solteiro** e área de trabalho para **2 notebooks** (pessoal + trabalho). O layout deve equilibrar descanso e produtividade no espaço compacto.
+> 🎯 **Conceito**: Quarto gamer/escritório funcional. Mesa de canto em L ocupando a quina, cama de solteiro, estante simples para coberturas/mudas de visita, e storage fechado para guardar a bagunça do escritório.
 
 ---
 
@@ -124,19 +124,37 @@ Dois dormitórios compactos e funcionais, com guarda-roupas planejados com espel
 
 ---
 
-### Guarda-Roupa com Espelho
+### 📦 Estante + Storage (sem guarda-roupa)
+
+> Sem guarda-roupa volumoso — o quarto é escritório/gamer. Solução leve e funcional.
+
+#### Estante aberta (coberturas + muda de visita)
 
 | Especificação | Detalhe |
 |---------------|---------|
-| **Largura** | 150–180cm |
-| **Profundidade** | 60cm |
-| **Portas** | Com espelho |
-| **Interior** | Cabideiro + prateleiras |
+| **Tipo** | Estante/rack com 3–4 prateleiras |
+| **Largura** | 60–80cm (compacta, ocupa pouco) |
+| **Uso** | Cobertas dobradas, 1–2 mudas de roupa de visita, livros |
+| **Sugestão** | Estante Kallax IKEA / MadeiraMadeira / Tok&Stok |
 
-| Tipo | Faixa de Preço |
-|------|---------------|
-| Modulado com espelho | R$ 1.500 – R$ 2.800 |
-| Semi-planejado | R$ 2.800 – R$ 4.500 |
+| Opção | Preço |
+|-------|-------|
+| Estante MDF 4 prateleiras | R$ 200 – R$ 400 |
+| Estante com portas (mais arrumado) | R$ 350 – R$ 700 |
+
+#### 🗄️ Storage de escritório (a bagunça)
+
+| Especificação | Detalhe |
+|---------------|---------|
+| **Tipo** | Armário baixo com portas ou gaveteiro embaixo da mesa |
+| **Uso** | Cabos avulsos, HDs, papelada, eletrônicos parados, ferramentas |
+| **Posição** | Embaixo de uma das abas da mesa em L ou ao lado dela |
+
+| Opção | Preço |
+|-------|-------|
+| Gaveteiro 3 gavetas com rodas | R$ 150 – R$ 300 |
+| Armário baixo 2 portas MDF | R$ 300 – R$ 600 |
+| Nicho fechado sob a mesa (planejado) | R$ 400 – R$ 800 |
 
 ---
 
@@ -177,11 +195,14 @@ Dois dormitórios compactos e funcionais, com guarda-roupas planejados com espel
 |------|-----------|---------------|---------|
 | Cama solteiro + cabeceira | R$ 400 | R$ 800 | R$ 1.500 |
 | Colchão solteiro | R$ 500 | R$ 900 | R$ 1.800 |
-| Guarda-roupa com espelho | R$ 1.600 | R$ 3.000 | R$ 5.000 |
-| Escrivaninha 140cm+ | R$ 450 | R$ 700 | R$ 1.200 |
-| Cadeira ergonômica | R$ 380 | R$ 600 | R$ 1.000 |
-| Acessórios setup duplo | R$ 200 | R$ 500 | R$ 1.200 |
-| **SUBTOTAL QUARTO 2** | **R$ 3.530** | **R$ 6.500** | **R$ 11.700** |
+| Mesa de canto em L | R$ 650 | R$ 1.000 | R$ 2.500 |
+| Mesa standing (já possui) | ✅ | ✅ | ✅ |
+| Monitor externo + braço articulado | R$ 800 | R$ 1.400 | R$ 2.000 |
+| Cadeira ergonômica/gamer | R$ 400 | R$ 800 | R$ 1.500 |
+| Acessórios setup (hub, teclado, cabo) | R$ 300 | R$ 600 | R$ 1.200 |
+| Estante aberta (coberturas/visita) | R$ 250 | R$ 450 | R$ 700 |
+| Storage de escritório (gaveteiro/armário) | R$ 200 | R$ 400 | R$ 800 |
+| **SUBTOTAL QUARTO 2** | **R$ 3.500** | **R$ 6.350** | **R$ 12.000** |
 
 ---
 
@@ -190,7 +211,7 @@ Dois dormitórios compactos e funcionais, com guarda-roupas planejados com espel
 | Item | Econômico | Intermediário | Premium |
 |------|-----------|---------------|---------|
 | Quarto 1 — Casal (completo) | R$ 5.350 | R$ 9.150 | R$ 15.400 |
-| Quarto 2 — Solteiro/Escritório (setup duplo) | R$ 3.530 | R$ 6.500 | R$ 11.700 |
+| Quarto 2 — Gamer/Escritório (setup completo) | R$ 3.500 | R$ 6.350 | R$ 12.000 |
 | **TOTAL DORMITÓRIOS** | **R$ 8.880** | **R$ 15.650** | **R$ 27.100** |
 
 > 💡 **Dica de economia**: Priorize o guarda-roupa planejado com espelho — transforma completamente o visual do quarto e gera a sensação de amplitude.

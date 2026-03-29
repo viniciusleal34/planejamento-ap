@@ -56,6 +56,9 @@ Espelhos grandes são elementos-chave neste projeto:
 | 13 | [Fornecedores](docs/13-fornecedores-e-referencias.md) | Lojas e referências |
 | 14 | [Prompts para Renders](docs/14-prompts-para-renders.md) | Prompts em inglês para IA |
 | 15 | [Checklist](docs/15-checklist.md) | Checklist completo |
+| 16 | [Lojas e Contatos Itu](docs/16-lojas-e-contatos-itu.md) | Lojas, preços, profissionais |
+| 17 | [Automação Residencial](docs/17-automacao-residencial.md) | Smart Home, Alexa, sensores |
+| 18 | [Orçamento Completo Reforma](docs/18-orcamento-completo-reforma.md) | **Todos os custos detalhados + mão de obra** |
 
 ---
 

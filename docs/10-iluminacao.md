@@ -6,61 +6,41 @@
 
 ## 📋 Visão Geral
 
-A iluminação é um dos elementos que mais transforma um ambiente. Para o estilo moderno contemporâneo, a combinação de **sanca de gesso + spots embutidos + fita LED** cria camadas de luz elegantes, funcionais e aconchegantes.
+Iluminação simples, funcional e sem exagero. Uma boa luminária central por ambiente já resolve — sem camadas infinitas de luz.
 
-| Ambiente | Iluminação Principal | Iluminação de Apoio |
-|---------|--------------------|--------------------|
-| Sala | Sanca LED indireta + spots | Fita LED painel TV |
-| Cozinha | Spots embutidos | Fita LED sob armários |
-| Quarto 1 | Plafon/spot central | Abajur criado-mudo |
-| Quarto 2 | Plafon/spot central | Abajur mesa |
-| Banheiro | Spot embutido | Fita LED espelho |
-| Varanda | Arandela parede | — |
-| Lavanderia | Spot embutido | — |
+| Ambiente | Iluminação | Qtd |
+|---------|-----------|-----|
+| Sala | 2–3 spots embutidos 3000K | mínimo |
+| Cozinha | 1–2 spots embutidos 3000K | mínimo |
+| Quarto 1 | 1 plafon LED central | 1 |
+| Quarto 2 | 1 plafon LED central | 1 |
+| Banheiro | 1 spot embutido | 1 |
+| Varanda | 1 arandela parede | 1 |
+| Lavanderia | 1 spot embutido | 1 |
 
-> 💡 **Temperatura de cor**: Use sempre **3000K** (branco quente) nos ambientes de estar e descanso. Reserve 4000K para a cozinha/lavanderia se quiser mais clareza.
-
----
-
-## 🏛️ Gesso / Sanca com LED (Sala + Corredor)
-
-A sanca de gesso com fita LED indireta é o diferencial visual do projeto.
-
-| Especificação | Detalhe |
-|---------------|---------|
-| **Tipo** | Sanca de gesso rebaixado com fita LED indireta |
-| **Ambientes** | Sala de estar (principal) + corredor |
-| **Fita LED** | 3000K, 10W/m, cor quente |
-| **Profundidade da sanca** | 20–30cm (suficiente para esconder a fita) |
-
-| Item | Faixa de Preço |
-|------|---------------|
-| Gesseiro (sanca sala ~12m²) | R$ 600 – R$ 1.200 |
-| Fita LED 3000K (rolo 5m) | R$ 50 – R$ 120/rolo |
-| Driver/fonte da fita LED | R$ 40 – R$ 100 |
-| **Total sanca + fita LED (sala)** | **R$ 700 – R$ 1.400** |
+> 💡 **Temperatura de cor**: **3000K** (branco quente) em todos os ambientes — aconchegante e uniforme.
 
 ---
 
 ## 🔦 Spots Embutidos LED
+
+> Sem sanca, sem fita LED, sem camadas. Spots simples no gesso, quentes e diretos.
 
 | Especificação | Detalhe |
 |---------------|---------|
 | **Temperatura** | 3000K (branco quente) |
 | **Potência** | 7W – 9W por spot |
 | **Furo** | Ø 75mm – 90mm |
-| **Acabamento** | Branco ou preto (conforme o gesso) |
+| **Acabamento** | Branco |
 
-| Ambiente | Quantidade Sugerida |
-|---------|-------------------|
-| Sala de estar | 4 – 6 spots |
-| Cozinha | 2 – 3 spots |
-| Quarto 1 | 2 – 3 spots |
-| Quarto 2 | 2 spots |
-| Corredor/hall | 1 – 2 spots |
-| Banheiro | 1 – 2 spots |
+| Ambiente | Quantidade |
+|---------|------------|
+| Sala de estar | 2 – 3 spots |
+| Cozinha | 1 – 2 spots |
+| Corredor/hall | 1 spot |
+| Banheiro | 1 spot |
 | Lavanderia | 1 spot |
-| **Total** | **13 – 19 spots** |
+| **Total spots** | **6 – 8 spots** |
 
 | Item | Faixa de Preço |
 |------|---------------|
@@ -142,16 +122,13 @@ A sanca de gesso com fita LED indireta é o diferencial visual do projeto.
 
 ## 💰 Resumo de Custos — Iluminação
 
-| Item | Econômico | Intermediário | Premium |
-|------|-----------|---------------|---------|
-| Gesso + sanca + fita LED (sala) | R$ 800 | R$ 1.200 | R$ 1.800 |
-| Spots LED (15 unidades) | R$ 500 | R$ 800 | R$ 1.200 |
-| Fitas LED adicionais | R$ 150 | R$ 300 | R$ 500 |
-| Pendentes (2 unidades) | R$ 200 | R$ 400 | R$ 800 |
-| Luminárias quartos (2 plafons + 2 abajures) | R$ 280 | R$ 500 | R$ 900 |
-| Arandela varanda | R$ 100 | R$ 180 | R$ 350 |
-| Mão de obra elétrica | R$ 900 | R$ 1.400 | R$ 2.000 |
-| **TOTAL ILUMINAÇÃO** | **R$ 2.930** | **R$ 4.780** | **R$ 7.550** |
+| Item | Econômico | Intermediário |
+|------|-----------|---------------|
+| Spots LED (7 unidades) | R$ 200 | R$ 400 |
+| Plafons quartos (2 unidades) | R$ 120 | R$ 250 |
+| Arandela varanda | R$ 80 | R$ 150 |
+| Mão de obra elétrica | R$ 400 | R$ 700 |
+| **TOTAL ILUMINAÇÃO** | **R$ 800** | **R$ 1.500** |
 
 ---
 
