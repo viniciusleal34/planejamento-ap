@@ -1,2 +1,2 @@
-PROJECT BASE. Bedroom wardrobe detail: white matte sliding wardrobe doors with large mirror panels reflecting daylight and making the room feel bigger. Minimal, tidy. Warm 3000K lighting. Photorealistic, 8k.
-NEGATIVE.
+PROJECT BASE. Master bedroom, view from the bed looking toward the opposite wall: full-width sliding wardrobe spanning the entire wall -- one panel is a large floor-to-ceiling mirror reflecting the bed, window and curtains behind the camera, making the tiny room feel double its size. The other panel is white matte MDF. White aluminum sliding track at top. Flat white ceiling with two recessed square LED spots. Light neutral walls. Pendant light cable visible to the side. Cement-look porcelain floor. Photorealistic, 8k.
+NEGATIVE. large room, high ceiling, loft, multiple wardrobes.
